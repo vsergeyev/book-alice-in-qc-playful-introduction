@@ -16,7 +16,7 @@
 
 У кожній історії є герої. В нашій книжці це кіт Кіт і пес Пес.
 
-
+![Кіт і Пес](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-intdoruction/main/images/cat_and_dog_picnic.gif )
 
 Кіт [TODO: Add Cat strong sides]
 
