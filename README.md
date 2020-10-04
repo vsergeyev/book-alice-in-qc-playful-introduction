@@ -14,7 +14,7 @@
 
 У кожній історії є герої. В нашій книжці це кіт Кіт і пес Пес.
 
-![Кіт і Пес](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-intdoruction/main/images/cat_and_dog_picnic.gif )
+![Кіт і Пес](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-introduction/main/images/cat_and_dog_picnic.gif )
 
 Кіт [TODO: Add Cat strong sides]
 
@@ -26,7 +26,7 @@
 
 Ця книжка лише виклад знань автора і вона доступна для розширення і змін всіма бажаючими. Чудові інструменти під назвою GIT / GITHUB надають змогу тобі створити свою книжку, додати свою інформацію і отримати задоволення. Розпочати писати власну книжку дуже просто:
 
-    git clone https://github.com/vsergeyev/book-alice-in-it-playful-intdoruction.git
+    git clone https://github.com/vsergeyev/book-alice-in-it-playful-introduction.git
 
 Абракадабра? Можливо, але не треба впадати у відчай. Кіт і Пес роблять це щодня, навіть пальці пам'ятають послідовність букв.
 
@@ -54,7 +54,7 @@
 
 Ми ніби запалюємо на вечірці, запалюємо, запалюємо, тусимо з друзями в себе вдома. А на ранок у нас розгром в кімнаті, кіт чомусь сидить у холодильнику, а у Facebook трашно заходити (хочі цікаво,  щож там постили минулої ночі). Так само із інформацією  в  мозку.
 
-![Кіт і Пес запалюють на диско](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-intdoruction/main/images/cat_and_dog_disco.gif )
+![Кіт і Пес запалюють на диско](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-introduction/main/images/cat_and_dog_disco.gif )
 
 ### Байти
 
@@ -72,7 +72,7 @@
 
 Кіт і Пес знімають відео на відеокамеру. Все виглядає круто, морозиво, пекмен і арканоїд (працьовиті китайці у вільну пам'ять відеокамери додали ігри).
 
-![Кіт і Пес перетворюють інформацію](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-intdoruction/main/images/cat_and_dog_youtube.gif )
+![Кіт і Пес перетворюють інформацію](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-introduction/main/images/cat_and_dog_youtube.gif )
 
 Тож при чому тут перетворення інформації?
 
@@ -96,7 +96,7 @@
 
 А ось як кіт Кіт реалізує алгоритм щастя: знаходить телевізор у інтернет магазині; клікає мишею кнопку "Купити"; отримує посилку; розпаковує телевізор; насолоджується із друзями телепередачами.
 
-![Кіт і Пес замовляють телевізор](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-intdoruction/main/images/cat_and_dog_mail.gif )
+![Кіт і Пес замовляють телевізор](https://raw.githubusercontent.com/vsergeyev/book-alice-in-it-playful-introduction/main/images/cat_and_dog_mail.gif )
 
 Насправді все що можна описати на кшталт "1 потім 2 потім 3 потім 4 ..." в інформатиці називається алгоритм.
 
